@@ -27,4 +27,4 @@ class Actor_Movie(models.Model):
         db_table = 'actors_movies'
         
         
-        #정참조 역참조 개념을 다시 정리하고 many to many를 다시 이해 하고 블로깅 ..
+        #정참조 역참조 개념을 다시 정리하고 many to many를 다시 이해 하고 블로깅 .
